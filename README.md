@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - :seedling: I am currently a graduate student at Xi'an Jiaotong University
 - ⚡ I am a data science competition enthusiast
 - 📫 Wechat:qq2257164884  QQ:2257164884
-- :four_leaf_clover: Five times top10 in [Ali-Tianchi](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279432678)  Four silver medals in [kaggle](https://www.kaggle.com/aimanlim0/competitions)
+- :four_leaf_clover: Five times top10 in [Ali-Tianchi](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279432678)  Five silver medals in [kaggle](https://www.kaggle.com/aimanlim0/competitions)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLLXW&show_icons=true&theme=chartreuse-dark)
