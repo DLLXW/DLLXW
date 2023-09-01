@@ -3,12 +3,12 @@
 <!--
 **DLLXW/DLLXW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+About Me.
 - :palm_tree: I'm now a AI algorithm engineer at Alibaba Group.
-- :seedling: I graduated from Xi'an Jiaotong University with a master's degree
-- ⚡ I am a data science competition enthusiast
-- 🐝 Now I'm very interested in large language models.
-- 📫 Wechat:qq2257164884  QQ🐧:2257164884
+- :seedling: I graduated from Xi'an Jiaotong University with a master's degree.
+- ⚡ I am a data science competition enthusiast.
+- 🐝 Now I'm very interested in large language models.I have experience in pre-training LLM at a scale of tens of billions.
+- 📫 Wechat:qq2257164884  QQ🐧:2257164884.
 - :four_leaf_clover: 6 times top10 in [Ali-Tianchi](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279432678)  7 silver medals in [kaggle](https://www.kaggle.com/aimanlim0/competitions)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLLXW&show_icons=true&theme=chartreuse-dark)
